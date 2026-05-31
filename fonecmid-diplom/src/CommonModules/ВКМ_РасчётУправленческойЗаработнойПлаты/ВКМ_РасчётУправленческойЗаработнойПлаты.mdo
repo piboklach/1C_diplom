@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonModule xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="54080751-4889-4370-94a4-f1eb42c0f8d9">
+  <name>ВКМ_РасчётУправленческойЗаработнойПлаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ расчёт управленческой заработной платы</value>
+  </synonym>
+  <server>true</server>
+  <externalConnection>true</externalConnection>
+</mdclass:CommonModule>
